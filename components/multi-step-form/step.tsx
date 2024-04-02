@@ -1,8 +1,4 @@
 "use client";
-import { Step as StepProp } from "@/app/student-onboarding/page";
-import React from "react";
-
-
 
 export  function Step({ step }: any) {
   const { number, title } = step;
