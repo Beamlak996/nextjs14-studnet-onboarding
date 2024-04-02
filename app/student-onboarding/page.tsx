@@ -1,4 +1,4 @@
-import { StepForm } from '@/components/multi-step-form/step-form'
+import StepForm from '@/components/multi-step-form/step-form';
 import Steps from '@/components/multi-step-form/steps';
 // import { Steps } from '@/components/multi-step-form/steps'
 
